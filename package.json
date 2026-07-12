@@ -68,7 +68,7 @@
   "dependencies": {
     "d3": "^7.3.0",
     "dialog-polyfill": "^0.5.6",
-    "express": "^4.17.2",
+    "express": "^5.0.0",
     "fs-extra": "^10.0.0",
     "glider-js": "^1.7.7",
     "indent.js": "^0.3.5",
